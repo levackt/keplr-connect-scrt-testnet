@@ -1,0 +1,9 @@
+export const DENOM = process.env.REACT_APP_DENOM;
+export const MINIMAL_DENOM = process.env.REACT_APP_MINIMAL_DENOM;
+export const AMOUNT_GIVEN = process.env.REACT_APP_AMOUNT_GIVEN;
+export const EXPLORER_URL = process.env.REACT_APP_EXPLORER_URL;
+export const GRPCWEB_URL = process.env.REACT_APP_GRPCWEB_URL;
+export const RPC_URL = process.env.REACT_APP_RPC_URL;
+export const LCD_URL = process.env.REACT_APP_LCD_URL;
+export const CHAIN_ID = process.env.REACT_APP_CHAIN_ID;
+export const CHAIN_NAME = process.env.REACT_APP_CHAIN_NAME;
